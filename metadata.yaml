@@ -1,0 +1,28 @@
+_repo: Hochtouren-im-tropischen-Amerika_70774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meyer, Hans
+    gutenberg_agent_id: '55918'
+    url: http://www.gutenberg.org/2009/agents/55918
+  editor:
+    agent_name: Dietzel, Karl H.
+    gutenberg_agent_id: '55919'
+    url: http://www.gutenberg.org/2009/agents/55919
+description: ''
+gutenberg_issued: '2023-05-16'
+identifiers:
+  gutenberg: '70774'
+language: de
+pgterms:marc905: 20221116085215meyer
+pgterms:marc906: '1927'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bF. A. Brockhaus, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hochtouren im tropischen Amerika
+url: http://www.gutenberg.org/ebooks/70774
