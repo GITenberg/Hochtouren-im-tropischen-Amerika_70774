@@ -1,5 +1,8 @@
 _repo: Hochtouren-im-tropischen-Amerika_70774
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70774-h/images/cover.jpg
 creator:
   author:
     agent_name: Meyer, Hans
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '55919'
     url: http://www.gutenberg.org/2009/agents/55919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70774#Hochtouren-im-tropischen-Amerika
 gutenberg_issued: '2023-05-16'
 identifiers:
   gutenberg: '70774'
